@@ -8,10 +8,13 @@ Domain: FRONTEND DEVELOPMENT
 
 Duration:10th JUNE- 10th JULY
 
+
 Overview
+
 GlamGallery – A Stylish and Interactive Image Gallery Web App
 
 Introduction
+
 This project is a modern and interactive image gallery built using HTML, CSS, and JavaScript. HTML provides the structural layout of the gallery, CSS is used for styling with special emphasis on animations and a glittery purple background, and JavaScript enables interactivity such as image preview in lightbox mode and navigation. The application is designed to be visually appealing, responsive across devices, and easy to expand with additional features.
 
 Core Features of Image Gallery:
